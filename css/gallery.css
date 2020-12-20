@@ -1,12 +1,10 @@
-#top{
-	
-	font-family: "Allura", sans-serif;
-	font-size: 30pt;
-	padding: 0px;
-	margin-top: 0px;
-	
-	
-	}
+		#top{
+			font-family: "Allura", sans-serif;
+			font-size: 30pt;
+			padding: 0px;
+			margin-top: 0px;
+		}
+
 		#nav{
 			display: block;
 			color: black;
@@ -44,8 +42,7 @@
 		#nav ul a {
 			font-size: 12pt;
 			color: black;
-			text-decoration: none;
-					
+			text-decoration: none;		
 			}
 			
 		p{
@@ -83,9 +80,6 @@ p{
 	
 }
 
-
-
-
 h3{
 	text-align: center;
 	font-family: "Allura", sans-serif;
@@ -109,7 +103,6 @@ h4{
 	list-style: none;
 	box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
 	-webkit-transform: all 1s ease-in;
-	
 }
 
 #content li#ph01 {
@@ -117,7 +110,6 @@ h4{
 	background-position: 50% 50%;
 	background-size: 220px 220px;
 	background-color: white;
-	
 }
 	
 #content li#ph02 {
@@ -241,16 +233,13 @@ h4{
 		
 }
 	
-	#footer{
-
+#footer{
 	background-color: white;
 	text-align: center;
 	position: fixed;
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	
-
 	}
 	
 .grid{
